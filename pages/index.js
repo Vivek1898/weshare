@@ -14,7 +14,6 @@ const Index = () => {
 
     //function for notify error
     const error = () => {
-
         message.error("Please Enter A room Name");
     };
 
